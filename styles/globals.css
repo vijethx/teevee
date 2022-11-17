@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 html{
-  background-image: url("../public/fullbg.png");
+  background-image: url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg");
   background-size: cover;
   
 
 }
 
 .main{
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2F4k&psig=AOvVaw2BeFj4vCVEo2soh4YeeGGX&ust=1668791391415000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMigh8PatfsCFQAAAAAdAAAAABAE");
+  background-image: url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg");
   background-size: cover; 
 
 }
