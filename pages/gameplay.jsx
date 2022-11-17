@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 import React, { useState, useEffect } from "react";
 import { RWebShare } from "react-web-share";
 import axios from "axios";
-import { arr } from "./games.db";
+import { arr } from "../database/games.db";
 
 export default function Home() {
   let [prevIndex, setPrevIndex] = useState();

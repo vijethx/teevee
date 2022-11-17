@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/entertainment": "pages/entertainment.html",
+  "/player": "pages/player.html",
+  "/tmkoc": "pages/tmkoc.html",
+  "/gameplay": "pages/gameplay.html",
+  "/": "pages/index.html",
+  "/comedy": "pages/comedy.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
